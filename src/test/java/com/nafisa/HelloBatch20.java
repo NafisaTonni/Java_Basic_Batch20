@@ -6,6 +6,7 @@ public class HelloBatch20 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Batch 20");
+		System.out.println("sysout->ctrl+spacebar");
 
 	}
 
